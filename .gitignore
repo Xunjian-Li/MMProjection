@@ -1,0 +1,14 @@
+# Julia artifacts / precompilation / temp
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.ji
+
+# VSCode / Jupyter / OS
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+
+# Build / docs
+docs/build/
+Manifest.toml
